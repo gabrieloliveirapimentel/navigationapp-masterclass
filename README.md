@@ -34,12 +34,4 @@ Contato:
   <a href="https://www.linkedin.com/in/gabriel-oliveira-pimentel/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=gabrieloliveirapimentel" target="_blank"></a>  
 </div>
 
-# Masterclass: 
-
-
-
-## Tecnologias utilizadas
-
-
-
 
